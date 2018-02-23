@@ -1,0 +1,10 @@
+XButton2::
+^XButton2::
++XButton2::
+Send {2}
+Sleep 500
+MouseClick ,Left,X,Y,3,0
+Send {3}
+Sleep 500
+MouseClick ,Left,X,Y,3,0
+return
